@@ -1,7 +1,7 @@
 package ss4_class_object_in_java.bai_tap;
 
 public class FanClass {
-    inal static int SLOW = 1;
+    final static int SLOW = 1;
     final static int MEDIUM = 2;
     final static int FAST = 3;
     private int speed;
